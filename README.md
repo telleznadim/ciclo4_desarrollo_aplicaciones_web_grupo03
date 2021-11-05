@@ -75,11 +75,11 @@ En este repo encontrarás todos los proyectos y ejemplos que desarrollaremos en 
 Te comparto también una documentación sencilla del FrontEnd y el Backend de esta aplicaciónÑ
 
 <div align="center">
-    <img src="img/BackendPortafolio.jpg" alt="BackendPortafolio" width="100%">
+    <img src="img/BackendPortafolio.png" alt="BackendPortafolio" width="100%">
 </div>
 
 <div align="center">
-    <img src="img/FrontendPortafolio.jpg" alt="FrontendPortafolio" width="100%">
+    <img src="img/FrontendPortafolio.png" alt="FrontendPortafolio" width="100%">
 </div>
 
 <!-- GETTING STARTED -->
@@ -125,7 +125,7 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
 - Explicación sencilla de qué es un Backend:
 
 <div align="center">
-    <img src="img/ExplicacionBackend.jpg" alt="ExplicacionBackend.jpg" width="100%">
+    <img src="img/ExplicacionBackend.png" alt="ExplicacionBackend" width="100%">
 </div>
 
 ## Links de nuestras clases
