@@ -56,7 +56,7 @@ En este repo encontrarás todos los proyectos y ejemplos que desarrollaremos en 
 
 ### Ejemplos cargados:
 
-## Ejemplos Ciclo 3 (Vue, Vuetify, NodeJs, MongoDB)
+#### Ejemplos Ciclo 3 (Vue, Vuetify, NodeJs, MongoDB)
 
 - [HTML CSS Ejemplo1](https://github.com/telleznadim/clases_programacion_web_grupo41/tree/html-css-ejemplo1)
 - [HTML CSS Ejemplo2 - Desarrollo de Página Web Club de Ark](https://github.com/telleznadim/clases_programacion_web_grupo41/tree/html-css-ejemplo2)
@@ -68,7 +68,7 @@ En este repo encontrarás todos los proyectos y ejemplos que desarrollaremos en 
 - [Pokemon Trainers Wiki - Frontend](https://github.com/telleznadim/clases_programacion_web_grupo41/tree/pokemon-trainers-wiki-frontend)
 - [Pokemon Trainers Wiki - Backend](https://github.com/telleznadim/clases_programacion_web_grupo41/tree/pokemon-trainers-wiki-backend)
 
-## Ejemplos Ciclo 4 (React, Bootstrap, NodeJs, MongoDB)
+#### Ejemplos Ciclo 4 (React, Bootstrap, NodeJs, MongoDB)
 
 - [Portafolio de Inversiones en Crypto monedas](https://github.com/telleznadim/ciclo4_desarrollo_aplicaciones_web_grupo03/tree/portafolio_inversiones)
 
@@ -107,7 +107,7 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
 - Git. [Descárgalo aquí](https://git-scm.com/downloads)
 - NodeJs (Current). [Descárgalo aquí](https://nodejs.org/en/)
 - React.js. Para poder crear una primera aplicación en React deberás seguir el siguiente procedimiento:
-  1. Ejecutar lo siguienteÑ
+  1. Ejecutar lo siguiente:
      ```sh
      npx create-react-app <nombre-de-app>
      ```
@@ -116,9 +116,9 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
      cd <nombre-de-app>
      ```
   3. Ejecutas el servidor de React:
-  ```sh
-   npm start
-  ```
+     ```sh
+     npm start
+     ```
 - MongoDB Community Edition. [Descárgalo aquí](https://www.mongodb.com/try/download/community)
 - Librerías para NodeJs: Express, Nodemon, Mongoose, Morgan, dotenv, cors).
 - Heroku Cli. [Descárgalo aquí](https://devcenter.heroku.com/articles/heroku-cli)
