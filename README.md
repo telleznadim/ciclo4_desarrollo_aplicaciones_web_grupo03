@@ -147,6 +147,14 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
 
 ### Ciclo 4
 
+- [Introducción Inicial (Presentación y Aclaración de dudas generalizadas, Stack Tecnológico, Scrum, Slack, Trello.) - 21/10/21](https://www.youtube.com/watch?v=1xRbSfpzRz0)
+- [Introducción Inicial (Presentación, Scrum, Slack y otros) - 21/10/21](https://www.youtube.com/watch?v=1xRbSfpzRz0)
+- [React, primeros pasos - Directiva onClick, Hooks UseState y UseEffect - 25/10/21](https://www.youtube.com/watch?v=HO5YpXj4nS4)
+- [Primer App, Portafolio de Inversiones (Parte 1 FrontEnd) - 26/10/21](https://www.youtube.com/watch?v=ATHq_7Gkqpc)
+- [Primer App, Portafolio de Inversiones (Parte 2 FrontEnd) - 28/10/21](https://www.youtube.com/watch?v=qCgzSDSAOF0)
+- [Primer App, Portafolio de Inversiones (Parte 3 FrontEnd y Backend) - 02/11/21](https://www.youtube.com/watch?v=EnG7IG9olbc)
+- [Primer App, Portafolio de Inversiones (Parte 3 FrontEnd y Api CoinGecko) - 04/11/21](https://www.youtube.com/watch?v=S56_Lgd5YA8)
+
 <!-- DOCUMENTACIÓN -->
 
 ## Documentación Adicional
