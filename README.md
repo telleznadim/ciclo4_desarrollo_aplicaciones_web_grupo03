@@ -72,7 +72,7 @@ En este repo encontrarás todos los proyectos y ejemplos que desarrollaremos en 
 
 - [Portafolio de Inversiones en Crypto monedas](https://github.com/telleznadim/ciclo4_desarrollo_aplicaciones_web_grupo03/tree/portafolio_inversiones)
 
-Te comparto también una documentación sencilla del FrontEnd y el Backend de esta aplicaciónÑ
+Te comparto también una documentación sencilla del FrontEnd y el Backend de esta aplicación:
 
 <div align="center">
     <img src="img/BackendPortafolio.png" alt="BackendPortafolio" width="100%">
@@ -81,6 +81,10 @@ Te comparto también una documentación sencilla del FrontEnd y el Backend de es
 <div align="center">
     <img src="img/FrontendPortafolio.png" alt="FrontendPortafolio" width="100%">
 </div>
+
+- [Ejemplo Redux y React](https://github.com/telleznadim/ciclo4_desarrollo_aplicaciones_web_grupo03/tree/ejemplo-redux-react)
+- [Ejemplo JWT (FrontEnd y BackEnd)](https://github.com/telleznadim/ciclo4_desarrollo_aplicaciones_web_grupo03/tree/ejemplo-jwt)
+- [Ejemplo JWT y Redux (Persist). (FrontEnd y BackEnd)](https://github.com/telleznadim/ciclo4_desarrollo_aplicaciones_web_grupo03/tree/ejemplo-jwt-redux)
 
 <!-- GETTING STARTED -->
 
@@ -153,6 +157,11 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
 - [Primer App, Portafolio de Inversiones (Parte 2 FrontEnd) - 28/10/21](https://www.youtube.com/watch?v=qCgzSDSAOF0)
 - [Primer App, Portafolio de Inversiones (Parte 3 FrontEnd y Backend) - 02/11/21](https://www.youtube.com/watch?v=EnG7IG9olbc)
 - [Primer App, Portafolio de Inversiones (Parte 4 FrontEnd y Api CoinGecko) - 04/11/21](https://www.youtube.com/watch?v=S56_Lgd5YA8)
+- [Ejemplo Redux (Parte 1) - 08/11/21](https://www.youtube.com/watch?v=j141pibNKV4)
+- [Ejemplo Redux (Parte 2) y Ejemplo JWT (Parte 1) - 09/11/21](https://www.youtube.com/watch?v=u6edRjwZ7rM)
+- [Ejemplo JWT (Parte 2) - 16/11/21](https://www.youtube.com/watch?v=65MVXNr-DQU)
+- [Clase de asesorías personalizadas - 18/11/21](https://www.youtube.com/watch?v=fq_Sda6uKdU)
+- [Evento de Nivelación: Ejemplo JWT y Redux - 19/11/21](https://www.youtube.com/watch?v=3-6Kr8pX7w8)
 
 <!-- DOCUMENTACIÓN -->
 
@@ -172,6 +181,8 @@ También te recomiendo la documentación oficial y no oficial de las temáticas 
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [ÍconosBootstrap](https://icons.getbootstrap.com/)
 - [ReactJs](https://reactjs.org/)
+- [JWT](https://jwt.io/)
+- [Redux-Toolkit](https://redux-toolkit.js.org/tutorials/quick-start)
 
 Y a continuación te comparto el Stack tecnológico que trabajaremos para el desarrollo de todas las clases del ciclo 4:
 
