@@ -162,6 +162,10 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
 - [Ejemplo JWT (Parte 2) - 16/11/21](https://www.youtube.com/watch?v=65MVXNr-DQU)
 - [Clase de asesorías personalizadas - 18/11/21](https://www.youtube.com/watch?v=fq_Sda6uKdU)
 - [Evento de Nivelación: Ejemplo JWT y Redux - 19/11/21](https://www.youtube.com/watch?v=3-6Kr8pX7w8)
+- [Ejemplo JWT y Redux (FrontEnd) - 22/11/21](https://www.youtube.com/watch?v=o_lwsfPzQxQ)
+- [Ejemplo JWT y Redux (Redux Persist) - 23/11/21](https://www.youtube.com/watch?v=pJj9PTb00Fo)
+- [Upload a Heroku (React y NodeJs) - 25/11/21](https://www.youtube.com/watch?v=kDYm3rU5VCY)
+- [Upload a Heroku (React y NodeJs - Parte 2) - 29/11/21](https://www.youtube.com/watch?v=EAxOevdJ7UA)
 
 <!-- DOCUMENTACIÓN -->
 
